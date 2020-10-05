@@ -980,7 +980,7 @@ if (!localStorage.guestID) {
 
     $.ajax({
       type: "post",
-      url: "http://localhost:3000/posts",
+      url: "http://my-json-server.typicode.com/rindufebiwedding/rindufebiwedding.github.io/posts",
       data: { guest_name : guest_name, guest_id : guest_id, guest_phone : guest_phone, undangan_type : undangan_type, number_of_guest : number_of_guest, congratulations : congratulations, status_rsvp : status_rsvp, undangan_id : undangan_id, undangan_type : undangan_type},
       xhr: function() {
         var xhr = new window.XMLHttpRequest();

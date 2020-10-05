@@ -1,40 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "nama": "json-server",
-      "jumlah_tamu": "typicode",
-      "no_hp": "1123412",
-      "kehadiran": true,
-      "ucapan": "yayaya"
-    },
-    {
-      "id": 2,
-      "nama": "ragila",
-      "jumlah_tamu": "3",
-      "no_hp": "29183921",
-      "kehadiran": true,
-      "ucapan": "yayewawaya"
-    },
-    {
-      "id": 23,
-      "nama": "ragilaaa",
-      "jumlah_tamu": "3",
-      "no_hp": "29ss183921",
-      "kehadiran": true,
-      "ucapan": "yayewawaya"
-    },
-    {
-      "guest_name": "guest_name",
-      "guest_id": "guest_id",
-      "guest_phone": "guest_phone",
-      "undangan_type": "undangan_type",
-      "number_of_guest": "number_of_guest",
-      "congratulations": "congratulations",
-      "status_rsvp": "status_rsvp",
-      "undangan_id": "undangan_id"
-    },
-    {
       "guest_name": "rarara",
       "guest_id": "null",
       "guest_phone": "24131231",
